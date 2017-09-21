@@ -13,35 +13,35 @@
 
 ### 登录时
 ##### *第一次的登录弹框提示是否使用指纹解锁
-![否使用指纹解锁1](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/1.png)
-![否使用指纹解锁2](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/2.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/1.png" width="40%" height="40%">
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/2.png" width="40%" height="40%">
 
 ##### *设置中关闭了TouchID，再次打开app
-![否使用指纹解锁3](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/7.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/7.png" width="40%" height="40%">
 
 ### 指纹验证错误
 ##### *输入错误一次
-![密码输入错误1](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/4.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/4.png" width="40%" height="40%">
 
 ##### *输入错误三次
-![密码输入错误2](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/5.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/5.png" width="40%" height="40%">
 
 ##### *输入错误五次
-![密码输入错误3](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/6.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/6.png" width="40%" height="40%">
 
 ##### *输入错误五次，验证密码后，继续弹框验证指纹
-![密码输入错误4](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/2.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/2.png" width="40%" height="40%">
 
 
 ### 指纹解锁开关
 ##### *弹出指纹验证界面
-![指纹解锁开关1](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/12.jpeg)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/12.jpeg" width="40%" height="40%">
 
 ##### *指纹验证成功
-![指纹解锁开关2](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/8.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/8.png" width="40%" height="40%">
 
 ##### *设置中关闭了TouchID，指纹验证失败
-![指纹解锁开关2](https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/9.png)
+<img src="https://github.com/FuJunZhi/FUResources/blob/master/Images/FUTouchID/9.png" width="40%" height="40%">
 
 提供的方法
 ==============
